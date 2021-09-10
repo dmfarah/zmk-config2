@@ -80,7 +80,7 @@
 		combo_esc 
 		{
 			timeout-ms = <25>;
-			key-positions = <1 2>;
+			key-positions = <0 1>;
 			bindings = <&kp ESC>;
 		};
        		combo_del 
@@ -92,7 +92,7 @@
        		combo_tab 
 		{
 			timeout-ms = <25>;
-			key-positions = <0 1>;
+			key-positions = <1 2>;
 			bindings = <&kp TAB>;
 		};
        		combo_ret 
